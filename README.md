@@ -7,7 +7,7 @@ Within this project, we preprocessed all data and sorted it into categories: fru
 
 We conducted adfuller and rolling mean/std tests within the ARIMAX portion of our project, helping us conclude that the fruit food loss data was indeed autocorrelated (time dependent). 
 
-We then made use of 3 models: the feed-forward neural network (not considering time data to have a baseline in which we could consider other models), a long/short term memory (LSTM) neural network, and ARIMAX forecasting model using exogenous variables of CO2 emissions. Ultimately, we found the ARIMAX model performed the best in terms of MAPE, giving insight on how feature selection and time series analysis could potentially be useful in fields heavily dependent on decision adjustments from previous years (i.e. agriculture, stocks, etc.)
+We then made use of 3 models: the feed-forward neural network (not considering time data to have a baseline in which we could consider other models), a long/short term memory (LSTM) neural network, and ARIMAX forecasting model using exogenous variables of CO2 emissions, GNI per capita ($) and annual GDP. Ultimately, we found the ARIMAX model performed the best in terms of MAPE, giving insight on how feature selection and time series analysis could potentially be useful in fields heavily dependent on decision adjustments from previous years (i.e. agriculture, stocks, etc.)
 
 Final project presentation attached as a PDF, describing problem and model performance in further detail.
 
