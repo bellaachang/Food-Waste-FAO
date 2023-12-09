@@ -1,4 +1,6 @@
 # Forecasting Food Loss using FAO Data
+![alt text](![image](https://github.com/bellaachang/food-waste-fao/assets/87054563/ec9be2dd-e138-4683-a1f8-58f8bd9ebfc4)
+)
 
 In this project in Fall 2023, I worked with a team of 6 other Berkeley data science undergraduates to forecast food loss in the U.S. using the Food annd Agriculture Organization (FAO)'s dataset on food loss: https://www.fao.org/platform-food-loss-waste/flw-data/en/ for our final project in the course DATA 144: Data Mining.
 
