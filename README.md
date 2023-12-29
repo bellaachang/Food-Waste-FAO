@@ -1,5 +1,4 @@
 # Forecasting Food Loss using FAO Data
-![image](https://github.com/bellaachang/food-waste-fao/assets/87054563/ec9be2dd-e138-4683-a1f8-58f8bd9ebfc4)
 
 In this project in Fall 2023, I worked with a team of 5 other Berkeley data science undergraduates to forecast food loss in the U.S. using the Food and Agriculture Organization (FAO)'s dataset on food loss: https://www.fao.org/platform-food-loss-waste/flw-data/en/ for our final project in the course DATA 144: Data Mining.
 
@@ -12,3 +11,5 @@ We then made use of 3 models: the feed-forward neural network (not considering t
 Final project presentation attached as a PDF, describing problem and model performance in further detail.
 
 Collaborators: Fiona Chang ('25, Statistics & DS), Wilson Fung ('25, CS & DS), Su Min Park ('24, DS & Sociology), Tess U-Vongcharoen ('24, DS), Sandya Wijaya ('24, DS & Environmental Science)
+
+![image](https://github.com/bellaachang/food-waste-fao/assets/87054563/ec9be2dd-e138-4683-a1f8-58f8bd9ebfc4)
